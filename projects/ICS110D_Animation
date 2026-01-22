@@ -1,0 +1,16 @@
+---
+layout: project
+type: project
+image: img/micromouse/micromouse-square.jpg
+title: "Another Tale from Sleepy Hollow"
+date: 2025
+published: true
+labels:
+  - Unity
+  - Adobe Photoshop
+  - Adobe Illustrate
+summary: "I created an animation within the Unity Game Engine using assets developed in Adobe Creative Cloud."
+---
+
+
+You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
