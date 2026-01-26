@@ -17,6 +17,10 @@ As someone who has experience with other programming languages, TypeScript feels
 
 From a software engineering perspective, I believe TypeScript is an extremely strong language, though most of my knowledge comes from third-party sources. The type system brings a level of organization that I find very pleasant, particularly the ability to assign types to functions, variables, and other elements. Additionally, TypeScript serves as a form of documentation for code, which is an aspect I greatly value while programming. 
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/woodchuck.jpg" >
+
 ## How much WOD could a WODchuck chuck?
 When it comes to athletic software engineering, I think this approach can be beneficial, especially for those unfamiliar with fast-paced environments. It promotes consistent practice and prevents extended breaks between learning, which keeps up momentum and skill development. The practice WODs provide hands-on learning within a collaborative setting, which is essential for both knowledge absorption and career prep. The at-home WODs are similarly helpful for preparing for class activities.
 
