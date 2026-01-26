@@ -10,7 +10,7 @@ labels:
   - Typescript
   - WODs
 ---
-## To Typescript or Not to Typescript?
+## Is Typescript... My type?
 Surprisingly, I find myself enjoying TypeScript. The syntax particularly appeals to me, especially the use of colons to define types, which I find logical based on my background in English writing. I also appreciate how straightforward it is to define objects, and the concept of objects acting as types is a feature that I personally enjoy.
 
 As someone who has experience with other programming languages, TypeScript feels most similar to Java—which makes sense considering that TypeScript is a superset of JavaScript. While Java was the first programming language I learned, I'm most comfortable with Python. However, Python's lack of semicolons has become so ingrained in my habits that adjusting to TypeScript has taken a bit more time. I often catch myself missing one or two semicolons at the end of my lines, though I've mostly adapted. Overall, TypeScript doesn't feel like learning a completely new language since the core principles of Java and Python are present. It's almost like being fluent in Spanish and then learning another Romance language—the fundamental concepts remain the same, but the syntax is different.
