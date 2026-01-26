@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "To Type or Not to Type? Well... I have a WOD to finish..."
+title: "To Type or Not to Type?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-25
 published: true
