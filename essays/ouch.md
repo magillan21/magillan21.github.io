@@ -27,6 +27,7 @@ The term “smart” may refer to the adjective used to denote a quick-witted an
 * The Enquirer must drink their milk and diligently finish their homework. (That’s how Enquirers grow!)
 * The Enquirer must be gracious and conclude their query once the solution has been found. (Please find a suitable phrase to express gratitude that falls in-between “Gramercy, goode folke for thine aide. I, the Enquirer, humbly extend mine gratitude for thee, graceful and divinely-favored.” and “thx.”)
 
+
 ## A Smart Venture
 Many such examples exist on Stack Overflow, one which will be inspected and its answers examined in order to evaluate the reapings of asking such a smart question. Behold and rejoice: 
 ```
