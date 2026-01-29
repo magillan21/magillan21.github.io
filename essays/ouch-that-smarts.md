@@ -68,7 +68,7 @@ How to send 100,000 emails weekly? [closed]
 <li>Yahoo</li>
 
 > It is important that all e-mail actually be delivered, to the extent that it is possible. Obviously, just sending the mail conventionally would do nothing but create problems.
-
+>
 > Is there a library for PHP that makes this simpler?
 
 
