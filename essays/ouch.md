@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/glitterypopcorn-wizard.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/glitterypopcorn-wizard.png">
 
 ## Smart, a guide.
 The term “smart” may refer to the adjective used to denote a quick-witted and intelligent individual—or the verb you might use to scathingly signal a stinging and sudden pain; a question posed can lead to either of the two definitions identified. A real smart (adjective) question is relatively simple, as long as the query follows several guidelines: 
