@@ -62,10 +62,10 @@ How to send 100,000 emails weekly? [closed]
 
 
 > How can one send an email to 100,000 users on a weekly basis in PHP? This includes mail to subscribers using the following providers:
-> AOL
-> G-Mail
-> Hotmail
-> Yahoo
+> * AOL
+> * G-Mail
+> * Hotmail
+> * Yahoo
 >
 > It is important that all e-mail actually be delivered, to the extent that it is possible. Obviously, just sending the mail conventionally would do nothing but create problems.
 >
