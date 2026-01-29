@@ -15,16 +15,17 @@ labels:
 
 ## Smart, a guide.
 The term “smart” may refer to the adjective used to denote a quick-witted and intelligent individual—or the verb you might use to scathingly signal a stinging and sudden pain; a question posed can lead to either of the two definitions identified. A real smart (adjective) question is relatively simple, as long as the query follows several guidelines: 
-The Enquirer has exhausted the resources available to them (“RTFM” & “STFW”).
-The Enquirer best clean up their grammar. (“I just ate, grandma!” versus “I just ate grandma!”)
-The Enquirer must not faff around—have mercy and be succinct. 
-The Enquirer must be humble yet refrain from grovelling. 
-The Enquirer should discuss their issue’s symptoms—do not diagnose.
-The Enquirer should discuss goals, not steps.
-The Enquirer should avoid listing buzz words such as “URGENT!” or “HELP! HELP! HELP!” (unless, of course, the Enquirer is querying from the International Space Station, then the former does not apply.)
-The Enquirer must not engage in shady private e-mails and follow a transparent and public process.
-The Enquirer must drink their milk and diligently finish their homework. (That’s how Enquirers grow!)
-The Enquirer must be gracious and conclude their query once the solution has been found. (Please find a suitable phrase to express gratitude that falls in-between “Gramercy, goode folke for thine aide. I, the Enquirer, humbly extend mine gratitude for thee, graceful and divinely-favored.” and “thx.”)
+
+* The Enquirer has exhausted the resources available to them (“RTFM” & “STFW”).
+* The Enquirer best clean up their grammar. (“I just ate, grandma!” versus “I just ate grandma!”)
+* The Enquirer must not faff around—have mercy and be succinct. 
+* The Enquirer must be humble yet refrain from grovelling. 
+* The Enquirer should discuss their issue’s symptoms—do not diagnose.
+* The Enquirer should discuss goals, not steps.
+* The Enquirer should avoid listing buzz words such as “URGENT!” or “HELP! HELP! HELP!” (unless, of course, the Enquirer is querying from the International Space Station, then the former does not apply.)
+* The Enquirer must not engage in shady private e-mails and follow a transparent and public process.
+* The Enquirer must drink their milk and diligently finish their homework. (That’s how Enquirers grow!)
+* The Enquirer must be gracious and conclude their query once the solution has been found. (Please find a suitable phrase to express gratitude that falls in-between “Gramercy, goode folke for thine aide. I, the Enquirer, humbly extend mine gratitude for thee, graceful and divinely-favored.” and “thx.”)
 
 ## A Smart venture
   Many such examples exist on Stack Overflow, one which will be inspected and its answers examined in order to evaluate the reapings of asking such a smart question. Behold and rejoice: “SSL: CERTIFICATE_VERIFY_FAILED certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))”
