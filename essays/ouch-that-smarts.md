@@ -60,16 +60,17 @@ How to send 100,000 emails weekly? [closed]
 
 15 years and 3 months ago, one Enquirer sent in this ominious query. 100,000 emails... Yet for what purpose? From where do they originate? To whom do they intend to go to? All these ponderings perhaps are irrelevant, because this particular question is as well. 
 
+<blockquote>
+How can one send an email to 100,000 users on a weekly basis in PHP? This includes mail to subscribers using the following providers:
+* AOL
+* G-Mail
+* Hotmail
+* Yahoo
 
-> How can one send an email to 100,000 users on a weekly basis in PHP? This includes mail to subscribers using the following providers:
-> * AOL
-> * G-Mail
-> * Hotmail
-> * Yahoo
->
-> It is important that all e-mail actually be delivered, to the extent that it is possible. Obviously, just sending the mail conventionally would do nothing but create problems.
->
-> Is there a library for PHP that makes this simpler?
+It is important that all e-mail actually be delivered, to the extent that it is possible. Obviously, just sending the mail conventionally would do nothing but create problems.
+
+Is there a library for PHP that makes this simpler?
+</blockquote>
 
 Well... There's clearly a goal, here, that is clear. However, and your author delights in this detail, this is the perfect moment for the phrase "STFW." Dear Enquirer, it needs no pointing out how vague and presumptuous this submission is—perhaps the 145 downvotes have notified you of this fact already. **"It is important that all e-mail actually be delivered."** Well, quite! Thank you, indeeed for telling the communnity what you require and how important it is for them to attend to your whims. If this Enquirer had graciously deigned to follow the first order in the "smart" question guidelines, perhaps the Enquirer would have pre-emptively realized what one of the topmost answers has so graciously lined out for them:
 
