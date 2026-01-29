@@ -36,6 +36,7 @@ SSL: CERTIFICATE_VERIFY_FAILED certificate verify failed: unable to get local is
 I'm working on scripts to connect to AWS from Win10.
 When I try to install a python module or execute a script I get the following error:
 [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)
+I've verified that the certificate in the environment path is defined so, besides that, I'm not sure what else to use to troubleshoot the issue.
 ```
 **“SSL: CERTIFICATE_VERIFY_FAILED certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))”**
   
