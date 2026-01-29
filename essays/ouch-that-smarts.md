@@ -19,7 +19,7 @@ The term “smart” may refer to the adjective used to denote a quick-witted an
 * The Enquirer has exhausted the resources available to them (“RTFM” & “STFW”).
 * The Enquirer best clean up their grammar. (“I just ate, grandma!” versus “I just ate grandma!”)
 * The Enquirer must not faff around—have mercy and be succinct. 
-* The Enquirer must be humble yet refrain from grovelling. 
+* The Enquirer must be humble, and yet refrain from grovelling. 
 * The Enquirer should discuss their issue’s symptoms—do not diagnose.
 * The Enquirer should discuss goals, not steps.
 * The Enquirer should avoid listing buzz words such as “URGENT!” or “HELP! HELP! HELP!” (unless, of course, the Enquirer is querying from the International Space Station, then the former does not apply.)
@@ -53,3 +53,39 @@ Also: requests.get(url, verify=False) is not recommended for production environm
 ```
 
 Wham-bam-shang-alang! The Enquirer has deemed this the best answer, and has courteously accepted it with a green checkmark. Many huzzahs, and shakes of ale mugs. However, in order to dissect a smart question, one must turn to the dark side and observe a not-so-smart question. Look, here:
+
+```
+How to send 100,000 emails weekly? [closed]
+```
+
+15 years and 3 months ago, one Enquirer sent in this ominious query. 100,000 emails... Yet for what purpose? From where do they originate? To whom do they intend to go to? All these ponderings perhaps are irrelevant, because this particular question is as well. 
+
+```
+How can one send an email to 100,000 users on a weekly basis in PHP? This includes mail to subscribers using the following providers:
+
+* AOL
+* G-Mail
+* Hotmail
+* Yahoo
+
+It is important that all e-mail actually be delivered, to the extent that it is possible. Obviously, just sending the mail conventionally would do nothing but create problems.
+
+Is there a library for PHP that makes this simpler?
+```
+Well... There's clearly a goal, here, that is clear. However, and your author delights in this detail, this is the perfect moment for the phrase "STFW." Dear Enquirer, it needs no pointing out how vague and presumptuous this submission is—perhaps the 145 downvotes have notified you of this fact already. **"It is important that all e-mail actually be delivered."** Well, quite! Thank you, indeeed for telling the communnity what you require and how important it is for them to attend to your whims. If this Enquirer had graciously deigned to follow the first order in the "smart" question guidelines, perhaps the Enquirer would have pre-emptively realized what one of the topmost answers has so graciously lined out for them:
+
+```
+People have recommended MailChimp which is a good vendor for bulk email.
+```
+
+Well said! The user continues to list several more SMTP vendors in hopes to help. But what about the note regarding PHP Libraries? At 678 votes, another user's answer outlines an option: 
+
+```
+Long answer: If you decide that you absolutely want to do this yourself, prepare for a world of hurt (after all, this is e-mail/e-fail we're talking about). You'll need:
+
+[Insert kind User's multi-paragraph & bullet-point thorough response]
+
+If, after all this, you are not discouraged and still want to do this, go right ahead: it's even possible that you'll find a better way to do this. Just know that the road ahead won't be easy - sending e-mail is trivial, getting it delivered is hard.
+```
+
+
