@@ -88,5 +88,5 @@ Long answer: If you decide that you absolutely want to do this yourself, prepare
 
 If, after all this, you are not discouraged and still want to do this, go right ahead: it's even possible that you'll find a better way to do this. Just know that the road ahead won't be easy - sending e-mail is trivial, getting it delivered is hard.
 ```
-
+Despite the question's blunders, the community is very forgiving and in-depth with their answers. However, it is good to wonder whether or not the Enquirer actually received the response they wanted due to the vagueness of their original post. It is most likely that the first example listed ended up happier with their answers as they seemingly resolved their issue. Alternatively, the second example struggles to gain specific guidance; it is hard to tell exactly what the goal of this Enquirer is, and as a result, the responses given might not assist in the explicit situation they're dealing with. To ask a smart question, it seems, is not only polite to the community a person is engaging with, but it is also to the benefit of the individual.
 
