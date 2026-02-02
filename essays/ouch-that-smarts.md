@@ -60,7 +60,7 @@ Wham-bam-shang-alang! The Enquirer has deemed this the best answer, and has cour
 
 [How to send 100,000 emails weekly? [closed]](https://stackoverflow.com/questions/3905734/how-to-send-100-000-emails-weekly)
 
-15 years and 3 months ago, one Enquirer sent in this ominious query. 100,000 emails... Yet for what purpose? From where do they originate? To whom do they intend to go to? All these ponderings perhaps are irrelevant, because this particular question is as well. 
+15 years and 3 months ago, one Enquirer sent in this ominious query. 100,000 emails... Yet for what purpose? From where do they originate? To whom do they intend to go to? All these ponderings are perhaps irrelevant, because this particular question doesn't outline what the individual exactly wants:
 
 ```
 How can one send an email to 100,000 users on a weekly basis in PHP? This includes mail to subscribers using the following providers:
@@ -75,13 +75,13 @@ It is important that all e-mail actually be delivered, to the extent that it is 
 Is there a library for PHP that makes this simpler?
 ```
 
-Well... There's clearly a goal, here, that is clear. However, and your author delights in this detail, this is the perfect moment for the phrase "STFW." Dear Enquirer, it needs no pointing out how vague and presumptuous this submission is—perhaps the 145 downvotes have notified you of this fact already. **"It is important that all e-mail actually be delivered."** Well, quite! Thank you, indeeed for telling the communnity what you require and how important it is for them to attend to your whims. If this Enquirer had graciously deigned to follow the first order in the "smart" question guidelines, perhaps the Enquirer would have pre-emptively realized what one of the topmost answers has so graciously lined out for them:
+Well... There's clearly a goal here, that is clear. However, this is the perfect moment for the phrase "STFW." There needs no pointing out how vague and presumptuous this submission is—perhaps the 145 downvotes have notified the author of this fact already. **"It is important that all e-mail actually be delivered."** Thank you for telling the community what you require and how important it is for them to attend to your whims. If this Enquirer had graciously deigned to follow the first order in the "smart question" guidelines, perhaps the Enquirer would have pre-emptively realized what one of the topmost answers has so graciously lined out for them:
 
 ```
 People have recommended MailChimp which is a good vendor for bulk email.
 ```
 
-Well said! The user continues to list several more SMTP vendors in hopes to help. But what about the note regarding PHP Libraries? At 678 votes, another user's answer outlines an option: 
+Well said! This user continues to list several more SMTP vendors in hopes to help. But what about the note regarding PHP Libraries? At 678 votes, another user's answer outlines an option: 
 
 ```
 Long answer: If you decide that you absolutely want to do this yourself, prepare for a world of hurt (after all, this is e-mail/e-fail we're talking about). You'll need:
