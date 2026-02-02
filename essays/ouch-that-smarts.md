@@ -54,9 +54,7 @@ Also: requests.get(url, verify=False) is not recommended for production environm
 
 Wham-bam-shang-alang! The Enquirer has deemed this the best answer, and has courteously accepted it with a green checkmark. Many huzzahs, and shakes of ale mugs. However, in order to dissect a smart question, one must turn to the dark side and observe a not-so-smart question. Look, here:
 
-```
-How to send 100,000 emails weekly? [closed]
-```
+[How to send 100,000 emails weekly? [closed]](https://stackoverflow.com/questions/3905734/how-to-send-100-000-emails-weekly)
 
 15 years and 3 months ago, one Enquirer sent in this ominious query. 100,000 emails... Yet for what purpose? From where do they originate? To whom do they intend to go to? All these ponderings perhaps are irrelevant, because this particular question is as well. 
 
