@@ -12,7 +12,8 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="375px" class="rounded float-start pe-4" src="../img/glitterypopcorn-wizard.png">
+<img width="375px" class="rounded float-start pe-4" src="../img/studentsite.png">
+<img width="375px" class="rounded float-start pe-4" src="../img/maui.png">
 
 ## Experience
 
