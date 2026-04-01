@@ -46,7 +46,7 @@ For the initial implementation, KnowledgeVault focuses on **terminology and defi
   - 21-40 students: 4 submissions per term max
   - 41+ students: 5 submissions per term max
 - Once a term reaches its submission cap, no more submissions are accepted for that term that week
-- This creates strategic choice: students must decide which terms to attempt based on difficulty, competition level, and their strengths
+- This creates a choice: students must decide which terms to attempt based on difficulty, competition level, and their strengths
 - Ensures all glossary terms receive attention and have quality submissions to choose from
 
 **Submission Content:**
