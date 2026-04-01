@@ -17,9 +17,9 @@ labels:
 
 ## Overview
 
-**The problem:** Students struggle to access structured, peer-verified study materials tailored to their specific courses. Each discipline has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or conceptual frameworks. Currently, students piece together study resources from scattered sources (textbooks, lecture notes, online forums) without quality assurance or institutional support. Additionally, students don't know what to expect from a course before enrolling.
+**The problem:** Students struggle to access structured, verified study materials tailored to their specific courses. Each discipline has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or conceptual frameworks. Currently, students piece together study resources from scattered sources (textbooks, lecture notes, online forums) without quality assurance or institutional support. Additionally, students don't know what to expect from a course before enrolling.
 
-**The solution:** Study Guide is a collaborative platform where instructors define what study materials their course needs, and students earn extra credit by submitting, peer-reviewing, and refining those materials. All approved submissions compile into comprehensive, interactive study resources organized by topic. By enabling cross-course sharing and open resource exports, Study Guide becomes a community-driven resource that benefits current and future students across disciplines.
+**The solution:** Study Guide is a collaborative platform where instructors define what study materials their course needs, and students earn extra credit by submitting, reviewing, and refining those materials. All approved submissions compile into comprehensive, interactive study resources organized by topic. By enabling cross-course sharing and open resource exports, Study Guide becomes a community-driven resource that benefits current and future students across disciplines.
 
 ## Approach
 
@@ -27,7 +27,7 @@ Study Guide has three main user roles: students, instructors, and teaching assis
 
 **Instructors** create course study material structures by defining what types of content their course needs (starting with glossary terms in Phase 1). They set extra credit point values for contributions, control whether students can access previous semester materials, and export compiled resources as open educational resources.
 
-**Teaching Assistants (TAs)** select the highest-quality student submissions and approve them for the glossary. They can view peer ratings and provide feedback on the selection process.
+**Teaching Assistants (TAs)** select the highest-quality student submissions and approve them for the glossary. They can view and provide feedback on the selection process.
 
 **Students** enroll in courses, view study materials, and strategically submit content for assigned course topics. Students earn extra credit for having their submission selected as the approved glossary entry. They study interactively by highlighting, annotating, and bookmarking materials. If the instructor allows, students can access previous semester materials to understand course expectations before enrolling.
 
@@ -87,7 +87,7 @@ Some possible mockup pages include:
 - Instructor Dashboard
 - TA Dashboard
 - Course Study Resource View
-- Glossary Term View (showing all submissions and peer ratings)
+- Glossary Term View (showing all submissions and ratings)
 - Student Submission Form (text + image upload)
 - TA Selection Interface (choosing the best submission)
 - Interactive Study Material (with highlighting and annotation tools)
