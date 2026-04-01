@@ -13,8 +13,6 @@ labels:
 
 ## Project: KnowledgeVault
 
-## Project: Study Guide
-
 ## Overview
 
 **The problem:** Students struggle to access structured, verified study materials tailored to their specific courses. Each discipline has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or conceptual frameworks. Currently, students piece together study resources from scattered sources (textbooks, lecture notes, online forums) without quality assurance or institutional support. Additionally, students don't know what to expect from a course before enrolling.
