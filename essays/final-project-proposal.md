@@ -31,7 +31,7 @@ Study Guide has three main user roles: students, instructors, and teaching assis
 
 ## Phase 1: Glossary-Based Study Materials (MVP)
 
-For the initial implementation, Study Guide focuses on **terminology and definitions**—a foundational content type that works across most disciplines.
+For the initial implementation, Study Guide focuses on **terminology and definitions** which is a foundational content type that works across most disciplines.
 
 **Instructor-Defined Glossaries:**
 - Instructor adds terms for each week or topic
