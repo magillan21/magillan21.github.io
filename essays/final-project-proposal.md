@@ -17,11 +17,11 @@ labels:
 
 **The problem:** Students struggle to access structured, verified study materials tailored to their specific courses. Each discipline has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or conceptual frameworks. Currently, students piece together study resources from scattered sources (textbooks, lecture notes, online forums) without quality assurance or institutional support. Additionally, students don't know what to expect from a course before enrolling.
 
-**The solution:** Study Guide is a collaborative platform where instructors define what study materials their course needs, and students earn extra credit by submitting, reviewing, and refining those materials. All approved submissions compile into comprehensive, interactive study resources organized by topic. By enabling cross-course sharing and open resource exports, Study Guide becomes a community-driven resource that benefits current and future students across disciplines.
+**The solution:** KnowledgeVault is a collaborative platform where instructors define what study materials their course needs, and students earn extra credit by submitting, reviewing, and refining those materials. All approved submissions compile into comprehensive, interactive study resources organized by topic. By enabling cross-course sharing and open resource exports, KnowledgeVault becomes a community-driven resource that benefits current and future students across disciplines.
 
 ## Approach
 
-Study Guide has three main user roles: students, instructors, and teaching assistants (TAs). Any user can have multiple roles (for example, a graduate student can be both a TA and a student in a different course).
+KnowledgeVault has three main user roles: students, instructors, and teaching assistants (TAs). Any user can have multiple roles (for example, a graduate student can be both a TA and a student in a different course).
 
 **Instructors** create course study material structures by defining what types of content their course needs (starting with glossary terms in Phase 1). They set extra credit point values for contributions, control whether students can access previous semester materials, and export compiled resources as open educational resources.
 
@@ -31,7 +31,7 @@ Study Guide has three main user roles: students, instructors, and teaching assis
 
 ## Phase 1: Glossary-Based Study Materials (MVP)
 
-For the initial implementation, Study Guide focuses on **terminology and definitions** which is a foundational content type that works across most disciplines.
+For the initial implementation, KnowledgeVault focuses on **terminology and definitions** which is a foundational content type that works across most disciplines.
 
 **Instructor-Defined Glossaries:**
 - Instructor adds terms for each week or topic
@@ -112,7 +112,7 @@ Whether or not the following bullet points list all pages or not, the completed 
 
 7. End of semester: All approved glossaries compile into a final Anatomy 141 Master Glossary. Instructor exports the glossary as a PDF study guide, an Anki flashcard deck, and a Markdown file shared on GitHub under Creative Commons license.
 
-8. Next semester, Anatomy 141 (Section B) is taught by a different instructor. Study Guide links the previous semester's glossary as a starting point. New students and instructors build upon and refine the existing glossary, creating a continuously improving campus resource.
+8. Next semester, Anatomy 141 (Section B) is taught by a different instructor. KnowledgeVault links the previous semester's glossary as a starting point. New students and instructors build upon and refine the existing glossary, creating a continuously improving campus resource.
 
 9. Student previews Anatomy 141 glossary before enrolling, sees the terminology load and existing resources, and decides to enroll confidently knowing what to expect.
 
