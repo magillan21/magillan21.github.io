@@ -31,7 +31,7 @@ KnowledgeVault has three main user roles: students, instructors, and teaching as
 
 ## Phase 1: Glossary-Based Study Materials (MVP)
 
-For the initial implementation, KnowledgeVault focuses on **terminology and definitions** which is a foundational content type that works across most disciplines.
+For the initial implementation, KnowledgeVault focuses on **terminology and definitions.**.
 
 **Instructor-Defined Glossaries:**
 - Instructor adds terms for each week or topic
