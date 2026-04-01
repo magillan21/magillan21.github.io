@@ -13,9 +13,11 @@ labels:
 
 ## Project: KnowledgeVault
 
+## Project: Study Guide
+
 ## Overview
 
-**The problem:** Students struggle to access structured, verified study materials tailored to their specific courses. Each discipline has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or conceptual frameworks. Currently, students piece together study resources from scattered sources (textbooks, lecture notes, online forums) without quality assurance or institutional support. Additionally, students don't know what to expect from a course before enrolling.
+**The problem:** Students struggle to access structured, peer-verified study materials tailored to their specific courses. Each discipline has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or conceptual frameworks. Currently, students piece together study resources from scattered sources (textbooks, lecture notes, online forums) without quality assurance or institutional support. Additionally, students don't know what to expect from a course before enrolling.
 
 **The solution:** Study Guide is a collaborative platform where instructors define what study materials their course needs, and students earn extra credit by submitting, peer-reviewing, and refining those materials. All approved submissions compile into comprehensive, interactive study resources organized by topic. By enabling cross-course sharing and open resource exports, Study Guide becomes a community-driven resource that benefits current and future students across disciplines.
 
@@ -56,16 +58,15 @@ For the initial implementation, Study Guide focuses on **terminology and definit
 - Designate difficulty level (Basic / Intermediate / Advanced)
 
 **Competitive Review & Approval Process:**
-- All submissions are visible to the class for peer review and rating
-- Students rate submissions for clarity, accuracy, and helpfulness
+- All submissions are visible to the class as reference materials
 - **TA/Instructor selects the highest-quality submission** based on:
-  - Peer ratings and community feedback
   - Accuracy and completeness
+  - Clarity and pedagogical value
   - Visual annotations quality (if applicable)
-  - Pedagogical value and clarity
+  - Overall helpfulness as a study resource
 - Only the approved submission is added to the official glossary
 - Only the student whose definition was selected earns extra credit (3-5 points typical, varies by quality)
-- Other submissions remain visible as supplementary resources but don't earn credit, encouraging learning from peer attempts
+- Other submissions remain visible as supplementary resources but don't earn credit, allowing students to learn from multiple approaches
 
 **Interactive Study Features:**
 - Highlight key phrases (color-coded for personal use)
@@ -107,17 +108,15 @@ Whether or not the following bullet points list all pages or not, the completed 
 
 4. Student B also submits a definition for "cranial nerves" before the submission cap closes. Both definitions are visible to the class.
 
-5. Students rate both submissions. Student A's definition gets higher peer ratings for clarity and the quality of the diagram. The TA reviews and approves Student A's submission for the glossary. Student A earns 4 extra credit points.
+5. Student B's submission remains visible as a supplementary resource. Student B can see the feedback and learn from the comparison.
 
-6. Student B's submission remains visible as a supplementary resource. Student B can see the feedback and learn from the comparison.
+6. Student opens the compiled Anatomy glossary, highlights "cranial nerves" in yellow, adds personal note "Remember: 12 pairs, some sensory only," bookmarks "neurovascular" for later review, and uses flashcard study mode the night before the exam.
 
-7. Student opens the compiled Anatomy glossary, highlights "cranial nerves" in yellow, adds personal note "Remember: 12 pairs, some sensory only," bookmarks "neurovascular" for later review, and uses flashcard study mode the night before the exam.
+7. End of semester: All approved glossaries compile into a final Anatomy 141 Master Glossary. Instructor exports the glossary as a PDF study guide, an Anki flashcard deck, and a Markdown file shared on GitHub under Creative Commons license.
 
-8. End of semester: All approved glossaries compile into a final Anatomy 141 Master Glossary. Instructor exports the glossary as a PDF study guide, an Anki flashcard deck, and a Markdown file shared on GitHub under Creative Commons license.
+8. Next semester, Anatomy 141 (Section B) is taught by a different instructor. Study Guide links the previous semester's glossary as a starting point. New students and instructors build upon and refine the existing glossary, creating a continuously improving campus resource.
 
-9. Next semester, Anatomy 141 (Section B) is taught by a different instructor. Study Guide links the previous semester's glossary as a starting point. New students and instructors build upon and refine the existing glossary, creating a continuously improving campus resource.
-
-10. Student previews Anatomy 141 glossary before enrolling, sees the terminology load and existing resources, and decides to enroll confidently knowing what to expect.
+9. Student previews Anatomy 141 glossary before enrolling, sees the terminology load and existing resources, and decides to enroll confidently knowing what to expect.
 
 ## Beyond the Basics
 
@@ -134,9 +133,9 @@ After implementing the glossary-based MVP, here are ideas for more advanced feat
 - Open resource export (PDF, Markdown, Anki format with Creative Commons licensing)
 - Featured glossaries on homepage (showcase best course resources)
 
-### Content Type Extensibility (Phase 3+):
+### Extending Content Type (Phase 3+):
 
-The system is designed to scale beyond glossaries to support multiple content types per course. Instructors could eventually define what their specific discipline needs:
+The system is designed to scale beyond glossaries to support multiple content types per course. Instructors could eventually define what their specific course needs:
 
 **Example Content Types (Future Expansion):**
 - **Worked Problem Solutions** (Math, Physics, Chemistry): Students submit step-by-step solutions with explanations
@@ -146,14 +145,12 @@ The system is designed to scale beyond glossaries to support multiple content ty
 - **Grammar & Usage Examples** (Languages): Students submit grammar rules with example sentences and contextual usage
 - **Case Study Analyses** (Business, Law, Medicine): Students submit detailed case analyses with critical thinking
 
-**How This Works Architecturally:**
+**How This Works:**
 1. Instructor selects content types for their course (or creates custom ones)
 2. Instructor provides submission templates/rubrics for each type
 3. Students submit according to templates
 4. Peer ratings and TA selection process work the same way
 5. Materials compile into tailored study resources
-
-This modular approach means the platform can expand to serve any discipline without requiring major system redesigns—just new submission templates and review criteria.
 
 ## Team Members
 
