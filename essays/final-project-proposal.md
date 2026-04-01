@@ -9,7 +9,7 @@ labels:
   - Nextjs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/studyGuide.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/studyGuide.jpg">
 
 ## Project: KnowledgeVault
 
