@@ -40,7 +40,7 @@ For the initial implementation, Study Guide focuses on **terminology and definit
 
 **Student Submissions & Competition:**
 - Students can submit definitions for glossary terms
-- **Per-Student Limit:** Each student can submit 1 definition per week maximum
+- **Per-Student Limit:** Each student can submit 1-2 definitions per week maximum (at instructor's discretion)
 - **Per-Term Cap (based on class size):** Each term can receive multiple submissions for competition:
   - 1-20 students: 3 submissions per term max
   - 21-40 students: 4 submissions per term max
