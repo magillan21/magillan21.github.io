@@ -35,11 +35,13 @@ The Observer pattern looks over the credit and glossary pipeline. A glossary ter
 
 ## Clueless…
 
+<img width="500px" class="rounded float-start pe-4" src="../img/maxresdefault.jpg">
+
 Once you learn design patterns, it's tempting to use them everywhere… But patterns exist to solve specific problems, and using them where there isn't one just makes the code harder to follow, even if you feel more clever or comfortable. 
-The more useful thing patterns give you is a shared vocabulary. When someone opens a file and immediately recognizes an Observer or a Facade, they don't have to reverse-engineer what it's doing. That speeds up code reviews and feels a lot less like pulling teeth for the next person to pick up where you left off.
+
+The more useful thing patterns give you is a shared vocabulary. When someone opens a file and immediately recognizes an Observer or a Facade, they don't have to reverse-engineer what it's doing. That speeds up code reviews and feels a lot less like pulling teeth for the next person to pick up where you left off. Just be cautious, choose a pattern that’s in-fashion for your goals.
 
 Which is kind of the whole point. Like a good city, good software should be something other people can navigate too.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/maxresdefault.jpg">
 
 
