@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+title: "Pretty In Patterns: A Romantic Comedy"
+# All dates must be YYYY-MM-DD format!
+date: 2025-04-29
+published: true
+labels:
+  - Design Patterns
+  - Study-Viser
+  - Software Engineering
+  - Web Development
+---
+
 ## 50 First Construction Dates or How to Build a City in 10 Days?
  
 Imagine two cities. The first city was built reactively: a road was built there because a farmer needed to reach a market, a building was built there because land was cheap, a bridge was thrown up because there was a flood. The city works! …Technically. People *can* get from place to place. But nobody can explain why the farm is right in front of the bakery, or why the post office is stuck between two parking garages with basically no entrance. Everyone who moves there has to figure things out. 
@@ -26,5 +40,6 @@ The more useful thing patterns give you is a shared vocabulary. When someone ope
 
 Which is kind of the whole point. Like a good city, good software should be something other people can navigate too.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/maxresdefault.jpg">
 
 
