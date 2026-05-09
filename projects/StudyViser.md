@@ -42,22 +42,22 @@ This project taught me a lot about how frontend and backend work together in a r
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px;">
 
   <div style="text-align: center;">
-    <img width="300px" class="rounded" src="../img/studyviser/home_page.png">
+    <img height="300px" class="rounded" src="../img/studyviser/home_page.png">
     <p><em>Home Page</em></p>
   </div>
 
   <div style="text-align: center;">
-    <img width="300px" class="rounded" src="../img/studyviser/official_glossary.png">
+    <img height="300px" class="rounded" src="../img/studyviser/official_glossary.png">
     <p><em>Official Glossary</em></p>
   </div>
 
   <div style="text-align: center;">
-    <img width="300px" class="rounded" src="../img/studyviser/instructor_course_page.png">
+    <img height="300px" class="rounded" src="../img/studyviser/instructor_course_page.png">
     <p><em>Instructor Course Page</em></p>
   </div>
 
   <div style="text-align: center;">
-    <img width="300px" class="rounded" src="../img/studyviser/instructor_extra_credit.png">
+    <img height="300px" class="rounded" src="../img/studyviser/instructor_extra_credit.png">
     <p><em>Instructor Extra Credit</em></p>
   </div>
 
