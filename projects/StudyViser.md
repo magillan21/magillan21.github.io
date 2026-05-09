@@ -37,8 +37,28 @@ My main contribution was building the Instructor Dashboard. I created the layout
 
 This project taught me a lot about how frontend and backend work together in a real application. Writing database queries that pull from multiple related tables was something I hadn't done much before, and it helped me understand how the data model affects what you can actually display in the UI. I also got more comfortable with Next.js and TypeScript through the process of building something that needed to work with real, live data.
 
+## Screenshots
 
-<img width="200px" class="rounded float-start pe-4" src="../img/studyviser/home_page.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/studyviser/official_glossary.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/studyviser/instructor_course_page.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/studyviser/instructor_extra_credit.png">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px;">
+
+  <div style="text-align: center;">
+    <img width="300px" class="rounded" src="../img/studyviser/home_page.png">
+    <p><em>Home Page</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img width="300px" class="rounded" src="../img/studyviser/official_glossary.png">
+    <p><em>Official Glossary</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img width="300px" class="rounded" src="../img/studyviser/instructor_course_page.png">
+    <p><em>Instructor Course Page</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img width="300px" class="rounded" src="../img/studyviser/instructor_extra_credit.png">
+    <p><em>Instructor Extra Credit</em></p>
+  </div>
+
+</div>
