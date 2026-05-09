@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bookCover.png
+image: img/book-covers/bookcover.png
 title: "Phoebe Judge's Criminal as Book Covers"
 date: 2025
 published: true
