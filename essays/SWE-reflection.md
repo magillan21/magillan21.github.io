@@ -22,6 +22,8 @@ The third concept that stood out to me was Design Patterns. Before this class, I
 
 ## Conclusion
 
-<img width="300px" class="rounded float-start pe-4" src="../img/office-siren.jpg">
-
 Overall, this course gave me more than web development skills. It changed how I think about software engineering as a whole. Agile Project Management taught me how to organize work with a team, Configuration Management showed me how to keep projects reliable, and Design Patterns gave me a better way to think about structuring code. Even if the technologies I use change in the future, I think these ideas are the ones I’ll keep coming back to.
+
+<div class="text-center">
+  <img width="400px" class="rounded" src="../img/office-siren.jpg">
+</div>
