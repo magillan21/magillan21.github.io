@@ -9,7 +9,7 @@ labels:
   - Github
   - HTML
   - CSS
-summary: ""
+summary: "**Cruzin'** was a project that let me combine two things I find genuinely exciting: thoughtful design and the idea that food tells a story about where it comes from."
 ---
 
 ## About Cruzin'
