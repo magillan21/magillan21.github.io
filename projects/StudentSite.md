@@ -9,12 +9,12 @@ labels:
   - Github
   - HTML
   - CSS
-summary: "**Cruzin'** was a project that let me combine two things I find genuinely exciting: thoughtful design and the idea that food tells a story about where it comes from."
+summary: "Cruzin' was a project that let me combine two things I find genuinely exciting: thoughtful design and the idea that food tells a story about where it comes from."
 ---
 
 ## About Cruzin'
 
-Cruzin' was a project that let me combine two things I find genuinely exciting: thoughtful design and the idea that food tells a story about where it comes from.
+**Cruzin'** was a project that let me combine two things I find genuinely exciting: thoughtful design and the idea that food tells a story about where it comes from.
 
 The concept was built around the metaphor of travel. Instead of just browsing recipes, I wanted the experience to feel like planning a trip. Picking a destination, choosing your skill level, grabbing your ingredients, and setting off. It was inspired by my love of travel, and the trouble I always face when baking: what to make? The result was a stylized single-page site that advertises the concept of filling out a quiz to get a ticket to your perfect recipe. 
 

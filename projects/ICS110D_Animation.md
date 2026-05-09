@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ics110d.png
+image: img/sleepyhollow/sleepyhollow.png
 title: "Another Tale from Sleepy Hollow"
 date: 2025
 published: true
@@ -11,6 +11,3 @@ labels:
   - Adobe Illustrate
 summary: "An animation created within the Unity Game Engine using assets developed in Adobe Creative Cloud."
 ---
-
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
