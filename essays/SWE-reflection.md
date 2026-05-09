@@ -18,6 +18,6 @@ Another important concept was Configuration Management, which focuses on keeping
 
 The third concept that stood out to me was Design Patterns. Before this class, I mostly wrote code just to make things work. I did not think much about how the structure of the code could be reused or improved. Learning patterns like Model-View-Controller helped me understand how larger systems are organized and why certain structures appear over and over again in software. StudyViser itself followed a structure similar to MVC, with Prisma handling data, React components handling presentation, and server actions connecting everything. What I found interesting is that many of these patterns are decades old, but are still reliable.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/office-siren.jpg" >
+<img width="300px" class="rounded float-start pe-4" src="../img/office-siren.jpg">
 
 Overall, this course gave me more than web development skills. It changed how I think about software engineering as a whole. Agile Project Management taught me how to organize work with a team, Configuration Management showed me how to keep projects reliable, and Design Patterns gave me a better way to think about structuring code. Even if the technologies I use change in the future, I think these ideas are the ones I’ll keep coming back to.
