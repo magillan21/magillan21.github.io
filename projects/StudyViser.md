@@ -13,7 +13,7 @@ labels:
   - CSS
   - PSQL
   - NextJs
-summary: ""
+summary: "StudyViser is a collaborative web platform designed to solve an important cademic challenge: students struggling to find structured, verified study materials tailored to their specific courses."
 
 ---
 ## StudyViser Github
