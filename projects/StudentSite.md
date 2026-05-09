@@ -26,7 +26,7 @@ Visually, I wanted it to feel warm and a little nostalgic, like a vintage travel
 
 Looking back, Cruzin' taught me a lot about how design and code work together. It's one thing to have a visual idea, and another to actually build it. This project pushed me to do both.
 
-<div style="text-align: center; justify-content: center;">
+<div style="text-align: center; justify-content: center; padding-top: 1em;">
     <img height="300px" class="rounded" src="../img/studentsite/cruzin.png">
     <p><em>Home Page</em></p>
 </div>

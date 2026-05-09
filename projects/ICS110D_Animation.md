@@ -25,3 +25,8 @@ One of the best things about this project was the prologue, which I decided to g
 Now that it's done, I realize that this project taught me new things in unexpected ways. As someone used to working with traditional tools of animation, making this film in Unity and then creating all visual elements of it was challenging, but rewarding.
 
 ---
+
+<div style="text-align: center; justify-content: center; padding-top: 1em;">
+    <img height="300px" class="rounded" src="../img/sleepyhollow/sleepyhollow.png">
+    <p><em>Another Tale From Sleepy Hollow</em></p>
+</div>
