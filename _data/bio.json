@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "magillan21", "url": "http://github.com/magillan21" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "magillan21", "url": "https://www.linkedin.com/in/michaela-gillan-032b143a5/" }
     ]
   },
   "interests": [
@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C++", "Java", "Javascript"]
+      "keywords": [ "Python", "C++", "Java", "Javascript", "Typescript", "HTML", "CSS"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "InDesign", "Photoshop", "Maya", "Adobe Illustrate", "Unity"]
+      "keywords": [ "Git/GitHub", "InDesign", "Photoshop", "Maya", "Adobe Illustrate", "Unity", "Vercel", "PSQL" ]
     }
   ],
   "education": [
@@ -72,7 +72,10 @@
       "position": "Events Committee Co-chair",
       "startDate": "Summer 2025",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Working under event coordination and marketing for an RIO that facilitates student engagement and enrichment.
+Leading workshops, college tours, and acting as representatives for the University of Hawaii’s College of Natural Sciences
+Conceptualizing and planning community outreach in the form of mixers and fundraising events within a team. 
+",
       "highlights": [
         ""
       ]
