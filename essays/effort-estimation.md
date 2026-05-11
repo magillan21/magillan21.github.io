@@ -12,6 +12,10 @@ labels:
   - Study-Viser
 ---
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/rabbit-watch.png" >
+
 ## How was it estimated?
 Estimates for StudyViser were made task by task. Each GitHub issue got broken down mentally before any code was written. The idea was that small pieces would add up to something accurate, which did not prove to be fully true.
 The thing that threw off almost every estimate was integrating code with previous code. A feature like the TA approval flow looked straightforward until it revealed itself as a transaction problem, an auth problem, and a state sync problem all at once. Anything that touched multiple layers of the stack took longer than it looked. Anything that lived in one place ran pretty close to estimate. There was no historical data to pull from at the start, so early estimates were educated guesses. 
