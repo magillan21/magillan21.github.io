@@ -10,6 +10,8 @@ labels:
   - Software Engineering
   - Reflection
 ---
+<img width="300px" class="rounded float-start pe-4" src="../img/computah.png">
+
 ## I. Introduction
 AI has been making its way into pretty much every field, and it only makes sense that it would be in software engineering. Writing code, fixing bugs, or just explaining why something isn't working, AI has become a normal part of how a lot of developers work today. As a student in ICS 314 at UH Manoa, I got to see firsthand how these tools fit into the process of actually learning software engineering. Out of all the AI tools available, I only used Claude throughout this course. I didn't use ChatGPT, GitHub Copilot, or Bard. 
 
